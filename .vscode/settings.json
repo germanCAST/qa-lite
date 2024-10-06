@@ -1,5 +1,7 @@
 {
     "conventionalCommits.scopes": [
-        "Project Structure"
-    ]
+        "Project Structure",
+        "Auth"
+    ],
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }
